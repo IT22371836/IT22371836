@@ -12,8 +12,6 @@
 
 - 🌱 I’m currently learning **PowerBI , SpringBoot , MERN Stack**
 
-- 💬 Ask me about **Java**
-
 - ⚡ Fun fact **Call me as Nadee**
 
 <h3 align="left">Connect with me:</h3>
