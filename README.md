@@ -1,5 +1,5 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi, I'm Nadee Hewapathirana</h1>
+<h1 align="center">Hi, I'm Nadee </h1>
 <h3 align="center">A passionate full Stack developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it22371836&label=Profile%20views&color=0e75b6&style=flat" alt="it22371836" /> </p>
@@ -8,7 +8,6 @@
 <tr border="none">
 <td width="50%" align="left"> 
 
-- 🔭 I’m currently working on [Photography](https://github.com/IT22914200/Photography.git)
 
 - 🌱 I’m currently learning **PowerBI , SpringBoot , MERN Stack**
 
